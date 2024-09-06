@@ -1,0 +1,55 @@
+[
+  
+  {
+   "code": "A001",
+    "nom": "BONI",
+    "prenom": "Nazi",
+    "nationalite": "Burkinabé"
+  },
+  {
+    
+    "code": "A002",
+    "nom": "HIEN",
+    "prenom": "Asonwing",
+    "nationalite": "Burkinabé"
+  },
+{
+   "code": "A003",
+    "nom": "CHINUA",
+    "prenom": "Achébé",
+    "nationalite": "Nigérian"
+  },
+  {
+    
+    "code": "A004",
+    "nom": "BA",
+    "prenom": "Mariama",
+    "nationalite": "Sénégalaise"
+  },
+{
+   "code": "A005",
+    "nom": "KONE",
+    "prenom": "Amadou",
+    "nationalite": "Ivoirien"
+  },
+  {
+    
+    "code": "A006",
+    "nom": "SEMBENE",
+    "prenom": "Ousman",
+    "nationalite": "Sénégalais"
+  },
+{
+   "code": "A007",
+    "nom": "KOUROUMA",
+    "prenom": "Ahmadou",
+    "nationalite": "Ivoirien"
+  },
+  {
+    
+    "code": "A009",
+    "nom": "SOME",
+    "prenom": "Jean_Baptiste",
+    "nationalite": "Sénégalais"
+  }
+]
